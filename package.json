@@ -1,0 +1,22 @@
+{
+    "name": "matt-s-js-development-extensions",
+    "displayName": "Matt's JS Development Extensions",
+    "description": "My favourite Code extensions for JavaScript development",
+    "version": "0.0.1",
+    "publisher": "hollandmatt",
+    "engines": {
+        "vscode": "^1.19.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "christian-kohler.npm-intellisense", 
+        "dbaeumer.vscode-eslint", 
+        "eg2.vscode-npm-script", 
+        "k--kato.intellij-idea-keybindings", 
+        "msjsdiag.debugger-for-chrome", 
+        "sodatea.velocity", 
+        "techer.open-in-browser"
+    ]
+}
