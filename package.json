@@ -2,7 +2,7 @@
     "name": "matt-s-js-development-extensions",
     "displayName": "Matt's JS Development Extensions",
     "description": "My favourite Code extensions for JavaScript development",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "hollandmatt",
     "engines": {
         "vscode": "^1.19.0"
